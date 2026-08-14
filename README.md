@@ -11,6 +11,7 @@
 - Objects/sprcmdzt
 - Rooms/Init/rTitle
 - Fonts/Default/fCh1 (if you add non-English characters)
+- Scripts/scrWorld (game title)
 
 ---
 
