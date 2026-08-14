@@ -1,0 +1,53 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"tAllTiles",
+  "autoTileSets":[
+    {"$GMAutoTileSet":"","%Name":"Brown_blocks","closed_edge":false,"name":"Brown_blocks","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[
+        2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,1,2,2,2,2,2,2,2,2,2,1,1,1,1,1,2,2,2,2,1,1,2,1,1,
+      ],},
+    {"$GMAutoTileSet":"","%Name":"Red_blocks","closed_edge":false,"name":"Red_blocks","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[
+        12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,11,11,11,11,12,12,12,12,12,12,12,12,12,11,
+        11,11,11,11,12,12,12,12,11,11,12,11,11,
+      ],},
+    {"$GMAutoTileSet":"","%Name":"Grey_blocks","closed_edge":false,"name":"Grey_blocks","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[
+        4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3,4,4,4,4,4,4,4,4,4,3,3,3,3,3,4,4,4,4,3,3,4,3,3,
+      ],},
+    {"$GMAutoTileSet":"","%Name":"Metal_blocks","closed_edge":false,"name":"Metal_blocks","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[
+        19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,14,19,19,19,18,19,19,19,14,19,19,19,18,19,19,19,14,18,
+        19,19,19,19,19,19,19,19,19,19,19,19,19,
+      ],},
+  ],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"tAllTiles",
+  "out_columns":4,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Tile Sets",
+    "path":"folders/Tile Sets.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"sprAllTiles",
+    "path":"sprites/sprAllTiles/sprAllTiles.yy",
+  },
+  "spriteNoExport":true,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":32,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":32,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":20,
+}

@@ -1,0 +1,1 @@
+if global.debugMode{visible=1}
